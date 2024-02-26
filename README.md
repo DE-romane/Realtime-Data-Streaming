@@ -13,7 +13,7 @@ Welcome to the Realtime Data Streaming project, ultimate guide to constructing a
 
 ## System Architecture
 
-![System Architecture](https://github.com/airscholar/e2e-data-engineering/blob/main/Data%20engineering%20architecture.png)
+![System Architecture](https://github.com/DE-romane/Realtime-Data-Streaming/blob/main/Data%20engineering%20architecture.png)
 
 The project is meticulously crafted with the following components:
 
@@ -54,12 +54,12 @@ Follow these simple steps to kickstart your journey with the Realtime Data Strea
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/airscholar/e2e-data-engineering.git-----------
+git clone https://github.com/DE-romane/Realtime-Data-Streaming.git
 ```
 
 2. **Navigate to the project directory**:
 ```bash
-cd e2e-data-engineering
+cd Realtime-Data-Streaming
 ```
 
 3. **Run Docker Compose to spin up the services**:
